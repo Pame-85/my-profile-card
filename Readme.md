@@ -10,8 +10,7 @@
 - #### Abrir el Bash.
 - #### Ingresar comando ```git clone < url>```.
 - #### Posicionarse en la carpeta del proyecto y abrirlo con un IDE.
-## Screenshots y mockup
+## Screenshot
 *****
 ![imagen](/images/screeshotsProject.png)
-![video](/videos/mac.gif)
 ****
