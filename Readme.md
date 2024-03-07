@@ -13,7 +13,5 @@
 ## Screenshots y mockup
 *****
 ![imagen](/images/screeshotsProject.png)
-****
-*****
 ![video](/videos/mac.gif)
 ****
