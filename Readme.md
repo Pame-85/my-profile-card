@@ -4,7 +4,7 @@
 ***
 ### Este Ejercicio tiene como objetivo principal mostrar el ejemplo de maquetado de html,Css y Js en Desarrollo Web.
 ### Para clonar está Repo seguí estos pasos en tu terminal:
-- #### Ir al [Repo](https://github.com/Pame-85/Portfolio).
+- #### Ir al [Repo](https://github.com/Pame-85/my-profile-card).
 - #### Forkearlo.
 - #### Ir a Code y copiar la URL.
 - #### Abrir el Bash.
